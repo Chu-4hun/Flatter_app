@@ -61,6 +61,21 @@ flutter:
   assets:
     - images/
 
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: fonts/static/Raleway-Bold.ttf
+        - asset: fonts/static/Raleway-Light.ttf
+        - asset: fonts/static/Raleway-Medium.ttf
+        - asset: fonts/static/Raleway-SemiBold.ttf
+    - family: IBM Plex Sans
+      fonts:
+        - asset: fonts\static\Ibm\IBMPlexSans-Bold.ttf
+        - asset: fonts\static\Ibm\IBMPlexSans-Italic.ttf
+        - asset: fonts\static\Ibm\IBMPlexSans-Medium.ttf
+        - asset: fonts\static\Ibm\IBMPlexSans-Regular.ttf
+
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
