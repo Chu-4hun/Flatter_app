@@ -1,3 +1,3 @@
-# first_flutter_app
+# Demo
 
 ![image](images/demo.png)
