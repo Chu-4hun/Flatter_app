@@ -1,4 +1,4 @@
 # first_flutter_app
 
-[image]!(images\demo.png)
+![image](images/demo.png)
 
