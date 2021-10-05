@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
                     children: const [
                       Icon(
                         Icons.perm_identity,
-                        size: 50.0,
+                        size: 30.0,
                         color: Colors.blueGrey,
                       ),
                       SizedBox(
